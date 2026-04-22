@@ -6,17 +6,6 @@ Site profissional para escritório de advocacia, desenvolvido com **HTML, CSS e 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
-## 📸 **Preview**
-
-| Desktop | Mobile |
-|---------|--------|
-| ![Desktop](https://via.placeholder.com/400x300/1a3c5e/white?text=Desktop+Preview) | ![Mobile](https://via.placeholder.com/200x300/1a3c5e/white?text=Mobile+Preview) |
-
-> *Substitua os placeholders pelas imagens reais do seu projeto*
-
----
 
 ## 🚀 **Funcionalidades**
 
@@ -31,7 +20,3 @@ Site profissional para escritório de advocacia, desenvolvido com **HTML, CSS e 
 | ✅ **Botão WhatsApp flutuante** | Contato rápido e direto |
 | ✅ **Scroll suave** | Navegação fluida entre seções |
 | ✅ **Google Maps integrado** | Localização do escritório |
-
----
-
-## 📁 **Estrutura do Projeto**
